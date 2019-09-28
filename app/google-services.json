@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1036845341947",
+    "firebase_url": "https://za7ma-3e347.firebaseio.com",
+    "project_id": "za7ma-3e347",
+    "storage_bucket": "za7ma-3e347.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036845341947:android:9a732d023fcfd4a88ce45e",
+        "android_client_info": {
+          "package_name": "com.andrewdev.za7ma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036845341947-nm0ush26qac84b1hogp349npq7l23tpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyHVujB9uXfSyJigFy9BD8ymVRS6eOolM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036845341947-nm0ush26qac84b1hogp349npq7l23tpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
